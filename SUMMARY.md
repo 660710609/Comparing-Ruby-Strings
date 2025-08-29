@@ -1,3 +1,3 @@
 # Table of contents
 
-* [Page](README.md)
+* [Comparing Strings in Ruby](README.md)
