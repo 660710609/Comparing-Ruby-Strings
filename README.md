@@ -346,22 +346,42 @@ print(animals)
 
 ## Reference
 
+> Ruby
+
 Ruby-Doc.org. (ม.ป.ป.). _Class: String (Ruby 3.5.0)_. สืบค้นเมื่อ 31 สิงหาคม 2568, จาก [https://docs.ruby-lang.org/en/master/String.html](https://docs.ruby-lang.org/en/master/String.html)
 
 Techotopia. (27 ตุลาคม 2559). _Ruby String Concatenation and Comparison_. สืบค้นเมื่อ 31 สิงหาคม 2568, จาก [https://www.techotopia.com/index.php/Ruby\_String\_Concatenation\_and\_Comparison](https://www.techotopia.com/index.php/Ruby_String_Concatenation_and_Comparison)
 
 Stack Overflow. (2552). _What is the Ruby spaceship operator?_. สืบค้นเมื่อ 31 สิงหาคม 2568, จาก [https://stackoverflow.com/questions/827649/what-is-the-ruby-spaceship-operator](https://stackoverflow.com/questions/827649/what-is-the-ruby-spaceship-operator)
 
-W3Schools. (ม.ป.ป.). _C String Functions_. สืบค้นเมื่อ 31 สิงหาคม 2568, จาก [https://www.w3schools.com/c/ref\_string\_strcmp.php](https://www.w3schools.com/c/ref_string_strcmp.php)
+Khalid, H. (18 เมษายน 2561). _Difference between eql?, ==, equal? in Ruby_. สืบค้นเมื่อ 31 สิงหาคม 2568, จาก [https://medium.com/@khalidh64/difference-between-eql-equal-in-ruby-2ffa7f073532](https://medium.com/@khalidh64/difference-between-eql-equal-in-ruby-2ffa7f073532)
+
+GeeksforGeeks. (12 ธันวาคม 2562). _Ruby String eql? Method_. สืบค้นเมื่อ 31 สิงหาคม 2568, จาก [https://www.geeksforgeeks.org/ruby/ruby-string-eql-method/](https://www.geeksforgeeks.org/ruby/ruby-string-eql-method/)
+
+> Python
 
 W3Schools. (ม.ป.ป.). _Python list sort() Method_. สืบค้นเมื่อ 31 สิงหาคม 2568, จาก [https://www.w3schools.com/python/ref\_list\_sort.asp](https://www.w3schools.com/python/ref_list_sort.asp)
 
 W3Schools. (ม.ป.ป.). _Python type() Function_. สืบค้นเมื่อ 31 สิงหาคม 2568, จาก [https://www.w3schools.com/python/ref\_func\_type.asp](https://www.w3schools.com/python/ref_func_type.asp)
 
-Khalid, H. (18 เมษายน 2561). _Difference between eql?, ==, equal? in Ruby_. สืบค้นเมื่อ 31 สิงหาคม 2568, จาก [https://medium.com/@khalidh64/difference-between-eql-equal-in-ruby-2ffa7f073532](https://medium.com/@khalidh64/difference-between-eql-equal-in-ruby-2ffa7f073532)
+> C
 
 GeeksforGeeks. (8 มกราคม 2568). _memcmp() in C_. สืบค้นเมื่อ 31 สิงหาคม 2568, จาก [https://www.geeksforgeeks.org/c/memcmp-in-c/](https://www.geeksforgeeks.org/c/memcmp-in-c/)
 
-GeeksforGeeks. (12 ธันวาคม 2562). _Ruby String eql? Method_. สืบค้นเมื่อ 31 สิงหาคม 2568, จาก [https://www.geeksforgeeks.org/ruby/ruby-string-eql-method/](https://www.geeksforgeeks.org/ruby/ruby-string-eql-method/)
+W3Schools. (ม.ป.ป.). _C String Functions_. สืบค้นเมื่อ 31 สิงหาคม 2568, จาก [https://www.w3schools.com/c/ref\_string\_strcmp.php](https://www.w3schools.com/c/ref_string_strcmp.php)
+
+> Java
 
 GeeksforGeeks. (20 มกราคม 2568). _Java String compareTo() Method with Examples_. สืบค้นเมื่อ 31 สิงหาคม 2568, จาก [https://www.geeksforgeeks.org/java/java-string-compareto-method-with-examples/](https://www.geeksforgeeks.org/java/java-string-compareto-method-with-examples/)
+
+GeeksforGeeks. (4 มกราคม 2568). _Difference Between == Operator and equals() Method in Java_. สืบค้นเมื่อ 31 สิงหาคม 2568, จาก [https://www.geeksforgeeks.org/java/difference-between-and-equals-method-in-java/](https://www.geeksforgeeks.org/java/difference-between-and-equals-method-in-java/)
+
+W3Schools. (ม.ป.ป.). _Java String equals() Method_. สืบค้นเมื่อ 31 สิงหาคม 2568, จาก [https://www.w3schools.com/java/ref\_string\_equals.asp](https://www.w3schools.com/java/ref_string_equals.asp)
+
+
+
+## Presentation
+
+
+
+## Video
