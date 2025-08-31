@@ -1,6 +1,3 @@
----
-description: test
----
+# Comparing Ruby Strings
 
-# Comparing Strings in Ruby
-
+ใน Ruby เราจะมีการเปรียบเทียบ(Comparing) ข้อความ(String) ได้หลายวิธีมาก เพื่อการนำไปใช้ต่อ หรือแม้กระทั่งใช้ประโยชน์ในการ เรียงข้อมูล(Sort) ได้ด้วย ซึ่งในบทความนี้จะพูดถึงการ เปรียบเทียบข้อความแบบ Case-sensitive  &#x20;
